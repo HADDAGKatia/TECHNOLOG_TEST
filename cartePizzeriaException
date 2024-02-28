@@ -1,0 +1,2 @@
+class CartePizzeriaException(Exception):
+    pass
